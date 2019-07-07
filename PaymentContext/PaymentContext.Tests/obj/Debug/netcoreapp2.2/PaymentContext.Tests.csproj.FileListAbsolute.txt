@@ -1,0 +1,14 @@
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/PaymentContext.Tests.deps.json
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/PaymentContext.Tests.runtimeconfig.json
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/PaymentContext.Tests.runtimeconfig.dev.json
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/PaymentContext.Tests.dll
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp2.2/PaymentContext.Tests.pdb
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/netcoreapp2.2/PaymentContext.Tests.csprojAssemblyReference.cache
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/netcoreapp2.2/PaymentContext.Tests.csproj.CoreCompileInputs.cache
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/netcoreapp2.2/PaymentContext.Tests.AssemblyInfoInputs.cache
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/netcoreapp2.2/PaymentContext.Tests.AssemblyInfo.cs
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/netcoreapp2.2/PaymentContext.Tests.dll
+/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/Debug/netcoreapp2.2/PaymentContext.Tests.pdb

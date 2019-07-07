@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectName": "PaymentContext.Tests",
+        "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "packagesPath": "/home/rangel/.nuget/packages/",
+        "outputPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/rangel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
