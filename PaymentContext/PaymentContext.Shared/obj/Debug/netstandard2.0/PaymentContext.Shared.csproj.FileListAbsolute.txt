@@ -7,3 +7,12 @@
 /home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
 /home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
 /home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csprojAssemblyReference.cache
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
