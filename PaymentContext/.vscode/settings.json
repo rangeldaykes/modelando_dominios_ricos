@@ -1,11 +1,11 @@
 {
-    "editor.fontSize": 13,
+    "editor.fontSize": 14,
     "editor.tokenColorCustomizations": {
         "functions": "",
         "comments": "",
         "variables": "",
         "types": "",        
-        //"keywords": "#f71b6f",
+        "keywords": "",
         "textMateRules": [
             {
                 "scope": "entity.name.type",

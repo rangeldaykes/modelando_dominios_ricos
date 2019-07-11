@@ -1,9 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/devkubuntu/.dotnet/store/|arch|/|tfm|",
-      "/home/devkubuntu/.nuget/packages",
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Users\\teste\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\teste\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }

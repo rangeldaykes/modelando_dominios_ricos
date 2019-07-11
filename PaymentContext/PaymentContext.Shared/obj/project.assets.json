@@ -51,12 +51,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "c4tPpzXwTcVCKX15MA7uByJ0/n/254RG6X1OpNIYWYDfhy/SBpJ/jsTWe3/6XL5SCQrio/ZHVP6FCvHBQ/y+cg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -201,28 +200,30 @@
     ]
   },
   "packageFolders": {
-    "/home/devkubuntu/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\teste\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "projectUniqueName": "c:\\temp\\projetos\\modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
-      "packagesPath": "/home/devkubuntu/.nuget/packages/",
-      "outputPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/",
+      "projectPath": "c:\\temp\\projetos\\modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
+      "outputPath": "c:\\temp\\projetos\\modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/devkubuntu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
