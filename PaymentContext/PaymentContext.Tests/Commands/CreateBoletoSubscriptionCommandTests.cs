@@ -4,7 +4,7 @@ using PaymentContext.Domain.Commands;
 using PaymentContext.Domain.Entities;
 using PaymentContext.Domain.ValueObjects;
 
-namespace PaymentContext.Tests
+namespace PaymentContext.Commands.Tests
 {
     [TestClass]
     public class CreateBoletoSubscriptionCommandTests
@@ -12,7 +12,7 @@ namespace PaymentContext.Tests
         // Red, Green, Refactor
 
         [TestMethod]
-        public void SouldReturnErrorWhenCNPJIsInvalid()
+        public void SouldReturnErrorWhenNameIsInvalid()
         {
             var command = new CreateBoletoSubscriptionCommand();
             command.FirstName = "";
