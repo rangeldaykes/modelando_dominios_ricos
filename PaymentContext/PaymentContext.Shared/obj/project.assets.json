@@ -51,11 +51,12 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "c4tPpzXwTcVCKX15MA7uByJ0/n/254RG6X1OpNIYWYDfhy/SBpJ/jsTWe3/6XL5SCQrio/ZHVP6FCvHBQ/y+cg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -200,30 +201,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\teste\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/rangel/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\temp\\projetos\\modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "projectUniqueName": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "c:\\temp\\projetos\\modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-      "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-      "outputPath": "c:\\temp\\projetos\\modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\obj\\",
+      "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+      "packagesPath": "/home/rangel/.nuget/packages/",
+      "outputPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\teste\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/rangel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

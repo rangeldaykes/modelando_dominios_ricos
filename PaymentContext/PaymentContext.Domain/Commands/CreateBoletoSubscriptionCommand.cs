@@ -1,11 +1,15 @@
 using System;
+using Flunt.Notifications;
+using Flunt.Validations;
 using PaymentContext.Domain.Enums;
 using PaymentContext.Domain.ValueObjects;
+using PaymentContext.Shared.Commands;
 
 namespace PaymentContext.Domain.Commands
 {
-    public class CreateBoletoSubscriptionCommand
+    public class CreateBoletoSubscriptionCommand : Notifiable, ICommand
     {
+
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Document { get; set; }
@@ -27,6 +31,16 @@ namespace PaymentContext.Domain.Commands
         public string City { get; set; }
         public string State { get; set; }
         public string Country { get; set; }
-        public string ZipCode { get; set; }        
+        public string ZipCode { get; set; }
+
+        public void Validate()
+        {
+            AddNotifications(new Contract()            
+                .Requires()
+                .HasMinLen(FirstName, 3, "Name.FirstName", "Nome deve conter pelo menos 3 caractesres")
+                .HasMinLen(LastName, 3, "Name.LastName", "SobreNome deve conter pelo menos 3 caractesres")
+                .HasMaxLen(FirstName, 40, "Name.FirstName", "Nome deve conter até 40 caracteres")
+            );
+        }
     }
 }
