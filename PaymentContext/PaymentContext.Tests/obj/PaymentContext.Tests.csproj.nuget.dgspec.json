@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
+    "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+    "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "projectUniqueName": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-        "packagesPath": "/home/rangel/.nuget/packages/",
-        "outputPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/obj/",
+        "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+        "packagesPath": "/home/devkubuntu/.nuget/packages/",
+        "outputPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/rangel/.nuget/NuGet/NuGet.Config"
+          "/home/devkubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
               }
             }
           }
@@ -62,20 +62,20 @@
         }
       }
     },
-    "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+    "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "projectUniqueName": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
-        "packagesPath": "/home/rangel/.nuget/packages/",
-        "outputPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/",
+        "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+        "packagesPath": "/home/devkubuntu/.nuget/packages/",
+        "outputPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/rangel/.nuget/NuGet/NuGet.Config"
+          "/home/devkubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -116,20 +116,20 @@
         }
       }
     },
-    "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
+    "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "projectUniqueName": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
-        "packagesPath": "/home/rangel/.nuget/packages/",
-        "outputPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/",
+        "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+        "packagesPath": "/home/devkubuntu/.nuget/packages/",
+        "outputPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Tests/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/rangel/.nuget/NuGet/NuGet.Config"
+          "/home/devkubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -140,11 +140,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
-                "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
+              "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+                "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
               },
-              "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-                "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+              "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+                "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
               }
             }
           }

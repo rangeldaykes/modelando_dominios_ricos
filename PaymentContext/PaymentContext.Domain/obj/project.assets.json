@@ -220,23 +220,23 @@
     ]
   },
   "packageFolders": {
-    "/home/rangel/.nuget/packages/": {},
+    "/home/devkubuntu/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "projectUniqueName": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
-      "packagesPath": "/home/rangel/.nuget/packages/",
-      "outputPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/obj/",
+      "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "packagesPath": "/home/devkubuntu/.nuget/packages/",
+      "outputPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/rangel/.nuget/NuGet/NuGet.Config"
+        "/home/devkubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -247,8 +247,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
-              "projectPath": "/home/rangel/projetos/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+            "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+              "projectPath": "/home/devkubuntu/discoe/rangel/modelando_dominios_ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
             }
           }
         }
