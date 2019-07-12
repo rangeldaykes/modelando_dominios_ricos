@@ -1,14 +1,32 @@
-# Created by https://www.gitignore.io/api/dotnetcore
-# Edit at https://www.gitignore.io/?templates=dotnetcore
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
 
-### DotnetCore ###
-# .NET Core build folders
-/bin
-/obj
+# Visual Studio Code
+.vscode
 
-# Common node modules locations
-/node_modules
-/wwwroot/node_modules
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
 
-# End of https://www.gitignore.io/api/dotnetcore
+# Visual Studio 2015
+.vs/
