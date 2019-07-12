@@ -1,10 +1,7 @@
-using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PaymentContext.Domain.Commands;
-using PaymentContext.Domain.Entities;
-using PaymentContext.Domain.ValueObjects;
 
-namespace PaymentContext.Commands.Tests
+namespace PaymentContext.Tests.Commands
 {
     [TestClass]
     public class CreateBoletoSubscriptionCommandTests

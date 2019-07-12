@@ -4,7 +4,7 @@ using PaymentContext.Domain.Commands;
 using PaymentContext.Domain.Handlers;
 using PaymentContext.Tests.Mocks;
 
-namespace PaymentContext.Handlers.Tests
+namespace PaymentContext.Tests.Handlers
 {
     [TestClass]
     public class SubscriptionHandlerTests
