@@ -56,7 +56,7 @@ namespace PaymentContext.Domain.Handlers
                 command.Country, 
                 command.ZipCode);
 
-            // Gerar Entidades
+            // Gerar Entidades,0
             var student = new Student(name, document, email);
             var subscription = new Subscription(DateTime.Now.AddMonths(1));
             var payment = new BoletoPayment(
